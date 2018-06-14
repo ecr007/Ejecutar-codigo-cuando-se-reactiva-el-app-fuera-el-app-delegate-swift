@@ -1,0 +1,1 @@
+# Ejecutar-codigo-cuando-se-reactiva-el-app-fuera-el-app-delegate-swift
